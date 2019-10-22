@@ -24,7 +24,7 @@
     "hchs-vue-charts": "^1.2.8",
     "inputmask": "^4.0.0",
     "jodit-vue": "^1.2.3",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.0",
     "laravel-vue-pagination": "^2.2.0",
     "moment": "^2.22.0",
     "sweetalert2": "^7.32.4",
