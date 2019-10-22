@@ -1,0 +1,29 @@
+Geral
+Swal -> ao clicar em cancelar ele exibe a mensagem informando sucesso
+
+#Início
+---Gráfico de adimplência
+V--Gráfico de rendimentos por ano
+
+#Associados
+##Perfil do associado
+-----No perfil de associados adicionar total de contribuições e adicionar saldo devedor
+
+#Financeiro
+##Entradas
+###Imposto Sindical
+-------Listar apenas tipos de pagamentos que sejam de imposto sindical
+-------Exibir mensagem de "nenhum registro encontrado" apenas quando for clicado em "pesquisar"
+###Ação de dar baixa a partir da lista
+-------Ao clicar em "salvar" na modal, a modal pode sumir para não ficar o swal e ela abertos. Após a mensagem de sucesso a modal está continuando aberta.
+###Pesquisar(filtro)
+-------A consulta não está funcionando
+ 
+##Saída
+##A pesquisar não está funcionando
+
+#Bens
+##Lista de bens
+###Editar
+-------A edição não está funcionando
+-------A Exclusão não está funcionando

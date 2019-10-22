@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class TipoPagamento extends Model
+{
+    protected $table = "tipos_pagamento";
+    protected $primaryKey = "tipo_pagamento_id";
+
+    protected $fillable = ['nome', 'descricao'];
+}
